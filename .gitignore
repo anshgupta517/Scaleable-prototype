@@ -1,0 +1,94 @@
+# Python
+# =====================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+*.egg-info
+.eggs/
+sdist/
+wheel/
+share/python-wheels/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+# =====================================================================
+# The directory where our virtual environment is created (e.g., 'venv/')
+# This is crucial! Never commit your virtual environment.
+venv/
+env/
+.venv/
+.env/
+
+# Editor/IDE files
+# =====================================================================
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Emacs
+#*~
+
+# Vim
+*.swp
+*.swo
+
+# macOS specific files
+# =====================================================================
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables and sensitive data
+# =====================================================================
+# If you use a .env file for environment variables (highly recommended)
+.env
+# Example for specific sensitive config files
+# config.ini
+# credentials.json
+
+# Logs and temporary files
+# =====================================================================
+*.log
+tmp/
+temp/
+
+# Database files (if local, unversioned database)
+# =====================================================================
+# For SQLite databases, typically development only
+*.sqlite3
+*.db
