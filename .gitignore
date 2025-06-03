@@ -92,3 +92,6 @@ temp/
 # For SQLite databases, typically development only
 *.sqlite3
 *.db
+
+#custom
+create_tables.py
