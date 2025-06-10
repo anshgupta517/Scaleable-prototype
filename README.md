@@ -1,6 +1,6 @@
 # Scaleable-prototype
 
-- [x] Basic FastAPI App Setup
+- [x] FastAPI App Setup
 - [x] Initial Scalability (Async/Workers)
 - [x] Database Integration (PostgreSQL & SQLAlchemy Async) 
 - [ ] Database Scaling
